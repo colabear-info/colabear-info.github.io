@@ -11,6 +11,13 @@ tags:
 [Code Generation with ALphaCodium: From Prompt Engineering to Flow Engineering](https://arxiv.org/pdf/2401.08500.pdf)
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Levi.png){: .align-center}
+<!-- ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Levi.png){: .align-center} -->
+
+<!-- ![image-center](..//assets/images/Levi.png) -->
+<figure style="width: 300px" class="align-right">
+  <img src="{..//assets/images/Levi.png" alt="">
+  <figcaption>Feels good to be right all the time.</figcaption>
+</figure> 
+
 
   Here is my reading notes on the combination of RAG and MCTS.
