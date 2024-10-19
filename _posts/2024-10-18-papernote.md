@@ -17,7 +17,11 @@ Also go throught a method that published by Zhe Gan, that incoporate the locatio
 
 A easy combination is that, what if we use the clip trained from Zhe with location information to do such a image caption problem to see if it performs better? How does it compare with the location embedding that we added to the image. That's an open question to discuss (which also requires a lot of computation resources).
 
-One question I asked myself today, do I really like doing research? Do I just don't like the feeling that I am left behind? Everyone has their own pace, and I should have my own goal. BTW, I got rejected by Wayve today. Feeling bad but know the reason. If I really want to do research, I should start reading paper. If I continue feeling pain about that, engineering might be a better path for me. 
+One question I asked myself today, do I really like doing research? Do I just don't like the feeling that I am left behind? Everyone has their own pace, and I should have my own goal. BTW, I got rejected by Wayve today. Feeling bad but know the reason. If I really want to do research, I should start reading paper. I should keep in mind, only one idea might word out of one hundred, do not be afraid of failure.
+
+I do hope that someone could tell me that, when they provide me with that opportunity, it is them that should take the responsibility of a failure candidate. 
+
+Glad that I write things down here, second day of daily update. 
 
 
 
